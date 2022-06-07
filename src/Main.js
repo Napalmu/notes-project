@@ -46,7 +46,7 @@ function Main({activeNote, onUpdateNote})
                 </div>
 
 
-                     </div>
+        </div>
 }
 
 export default Main;
